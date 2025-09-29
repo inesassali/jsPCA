@@ -1,0 +1,13 @@
+numpy
+pandas
+anndata
+scanpy
+SpaGCN
+scikit-learn
+scipy
+openpyxl
+networkx
+torch
+pymanopt
+python-louvain
+python-igraph
