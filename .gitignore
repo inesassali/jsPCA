@@ -1,18 +1,39 @@
-# Ignore data and results
+# -------------------------------
+# Data and results
+# -------------------------------
 data/
 results/
 
-# Ignore Python cache files
+# -------------------------------
+# Python cache and compiled files
+# -------------------------------
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.so
 
-# Ignore environment files
-.env
-venv/
-*.ipynb_checkpoints
+# -------------------------------
+# Jupyter Notebook checkpoints
+# -------------------------------
+.ipynb_checkpoints/
 
-# Ignore system files
+# -------------------------------
+# System files
+# -------------------------------
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# -------------------------------
+# Logs
+# -------------------------------
+*.log
+
+# -------------------------------
+# IDE / Editor
+# -------------------------------
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
