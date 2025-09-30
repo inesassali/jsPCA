@@ -26,6 +26,8 @@ conda env create -f environment.yml
 
 conda activate jspca-env
 
+```
+
 
 
 ## Usage
@@ -36,6 +38,8 @@ conda activate jspca-env
 
 python scripts/jspca\_monosslice.py
 
+```
+
 
 
 ### Multi-slice or Multi-sample Analysis
@@ -44,7 +48,7 @@ python scripts/jspca\_monosslice.py
 
 python scripts/jspca\_multislice.py
 
-&nbsp;
+```
 
 
 
