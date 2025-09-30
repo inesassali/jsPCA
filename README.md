@@ -79,19 +79,10 @@ python scripts/jspca-multislice.py
 
 ## Datasets
 
-Input format: .h5ad
+- Input datasets must be in `.h5ad` format.
+- Each dataset should contain **spatial coordinates** (`x/y` or `spatial` in `.obsm`).
+- Each dataset should include **ground truth labels** (`ground_truth`) and/or **cell/tissue annotations** (`annotation`) for evaluation and interpretation.
 
-
-
-Required fields:
-
-
-
-* Spatial coordinates → .obsm\["spatial"]
-
-
-
-* Ground truth labels → .obs\["ground\_truth"] or .obs\["annotation"]
 
 ## Citation
 If you use this project, please cite the corresponding study:
