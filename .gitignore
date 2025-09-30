@@ -39,3 +39,8 @@ desktop.ini
 .vscode/
 *.sublime-project
 *.sublime-workspace
+
+# -------------------------------
+# Ignore Louvain file
+# -------------------------------
+louvain
