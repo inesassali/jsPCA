@@ -14,6 +14,21 @@
 
 This simple mathematical framework allows jsPCA to efficiently capture biologically relevant spatial structure in transcriptomics data.
 
+## Project Structure
+```bash
+
+jsPCA_project/
+│
+├── data/                   # Input datasets (.h5ad)
+├── results/                # Output results (clustering, metrics, plots)
+├── scripts/                # Main scripts for mono-slice and multi-slice analysis
+├── utils/                  # Utility modules
+├── .gitignore              # Git ignore file
+├── README.md               # Project overview and instructions
+├── environment.yml         # Conda environment
+└── requirements.txt        # Python package dependencies
+
+```
 
 
 ## Installation
@@ -39,8 +54,6 @@ conda activate jspca-env
 python scripts/jspca-monoslice.py
 
 ```
-
-
 
 ### Multi-slice or Multi-sample Analysis
 
