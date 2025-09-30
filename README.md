@@ -22,7 +22,16 @@ jsPCA_project/
 ├── data/                   # Input datasets (.h5ad)
 ├── results/                # Output results (clustering, metrics, plots)
 ├── scripts/                # Main scripts for mono-slice and multi-slice analysis
+│   ├── jspca_monosslice.py
+│   ├── jspca_multislice.py
 ├── utils/                  # Utility modules
+│   ├── adjacency_matrix_knn.py
+│   ├── clustering_utils.py
+│   ├── eigen_utils.py
+│   ├── hungarian_algorithm.py
+│   ├── jspca_utils.py
+│   ├── projection_utils.py
+│   ├── spca_utils.py
 ├── .gitignore              # Git ignore file
 ├── README.md               # Project overview and instructions
 ├── environment.yml         # Conda environment
