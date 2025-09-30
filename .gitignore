@@ -1,8 +1,10 @@
 # -------------------------------
-# Data and results
+# Data and results (ignore contents, keep folder)
 # -------------------------------
-data/
-results/
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
 
 # -------------------------------
 # Python cache and compiled files
