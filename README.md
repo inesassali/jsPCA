@@ -36,7 +36,7 @@ conda activate jspca-env
 
 ```bash
 
-python scripts/jspca\_monoslice.py
+python scripts/jspca-monoslice.py
 
 ```
 
@@ -46,7 +46,7 @@ python scripts/jspca\_monoslice.py
 
 ```bash
 
-python scripts/jspca\_multislice.py
+python scripts/jspca-multislice.py
 
 ```
 
