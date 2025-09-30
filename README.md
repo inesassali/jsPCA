@@ -67,8 +67,8 @@ python scripts/jspca_multislice.py
 
 ```
 3. Check the output folder (`results/jspca/Monoslice` or `results/jspca/Multislice`) for:
-   * `.h5ad` files with clustering results and **best configuration automatically selected**
-   * Excel files with **ARI/NMI** and **Time/Memory** metrics
+   * `.h5ad` files with clustering results and best configuration automatically selected.
+   * Excel files with **ARI/NMI** and **Time/Memory** metrics.
 
 ## Datasets
 
