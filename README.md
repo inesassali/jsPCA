@@ -50,5 +50,21 @@ python scripts/jspca-multislice.py
 
 ```
 
+## Datasets
+
+Input format: .h5ad
+
+
+
+Required fields:
+
+
+
+* Spatial coordinates → .obsm\["spatial"]
+
+
+
+* Ground truth labels → .obs\["ground\_truth"] or .obs\["annotation"]
+
 
 
