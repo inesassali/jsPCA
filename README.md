@@ -26,3 +26,25 @@ conda env create -f environment.yml
 
 conda activate jspca-env
 
+
+
+## Usage
+
+### Mono-slice Analysis
+
+```bash
+
+python scripts/jspca\_monosslice.py
+
+
+
+### Multi-slice or Multi-sample Analysis
+
+```bash
+
+python scripts/jspca\_multislice.py
+
+&nbsp;
+
+
+
