@@ -62,8 +62,8 @@ To analyze your own spatial transcriptomics data:
 
 ```bash
 
-python scripts/jspca_monosslice.py
-python scripts/jspca_multislice.py
+python scripts/jspca-monoslice.py
+python scripts/jspca-multislice.py
 
 ```
 3. Check the output folder (`results/jspca/Monoslice` or `results/jspca/Multislice`) for:
