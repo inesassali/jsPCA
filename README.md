@@ -54,23 +54,22 @@ conda activate jspca-env
 
 
 
-## Utilization
+## Tutorial
+To analyze your own spatial transcriptomics data:
 
-### Mono-slice Analysis
-
-```bash
-
-python scripts/jspca-monoslice.py
-
-```
-
-### Multi-slice or Multi-sample Analysis
+1. Prepare your datasets in `.h5ad` format with a `ground_truth`/`annotation` column.
+2. Run the mono-slice or multi-slice script:
 
 ```bash
 
-python scripts/jspca-multislice.py
+python scripts/jspca_monosslice.py
+python scripts/jspca_multislice.py
 
 ```
+3. Check the output folder (`results/jspca/Monoslice` or `results/jspca/Multislice`) for:
+   - `.h5ad` files with clustering results
+   - Excel files with **ARI/NMI** and **Time/Memory** metrics
+
 ## Outputs
 - Processed `.h5ad` files with clustering results.
 - Excel files with **ARI/NMI** and **runtime/memory** metrics.
