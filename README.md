@@ -16,5 +16,17 @@ This simple mathematical framework allows jsPCA to efficiently capture biologica
 
 
 
+## Installation
+
+
+
+```bash
+
+conda env create -f environment.yml
+
+conda activate jspca-env
+
+
+
 
 
