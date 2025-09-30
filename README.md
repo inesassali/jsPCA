@@ -54,7 +54,7 @@ conda activate jspca-env
 
 
 
-## Usage
+## Utilization
 
 ### Mono-slice Analysis
 
