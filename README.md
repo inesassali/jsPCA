@@ -93,5 +93,8 @@ Required fields:
 
 * Ground truth labels → .obs\["ground\_truth"] or .obs\["annotation"]
 
+## Citation
+If you use this project, please cite the corresponding study:
 
+Ines Assali, Paul Escande, Paul Villoutreix. (2025). jsPCA: fast, scalable, and interpretable identification of spatial domains and variable genes across multi-slice and multi-sample spatial transcriptomics data. *bioRxiv*. DOI: [10.1101/2025.09.16.676466](https://doi.org/10.1101/2025.09.16.676466)
 
