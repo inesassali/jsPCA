@@ -72,9 +72,9 @@ python scripts/jspca-multislice.py
 
 ```
 ## Outputs
-- Processed `.h5ad` files with clustering results
-- Excel files with **ARI/NMI** and **runtime/memory** metrics
-- Best configuration automatically selected
+- Processed `.h5ad` files with clustering results.
+- Excel files with **ARI/NMI** and **runtime/memory** metrics.
+- Best configuration automatically selected.
 
 
 ## Datasets
