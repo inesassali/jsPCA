@@ -54,7 +54,7 @@ conda activate jspca-env
 
 
 
-## Tutorial
+## Data Analysis Workflow
 To analyze your own spatial transcriptomics data:
 
 1. Prepare your datasets in `.h5ad` format with a `ground_truth`/`annotation` column.
