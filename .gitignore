@@ -3,6 +3,12 @@
 # -------------------------------
 data/*
 !data/.gitkeep
+
+# Allow DLPFC and specific .h5ad files
+!data/DLPFC/
+!data/DLPFC/151673.h5ad
+!data/DLPFC/151674.h5ad
+
 results/*
 !results/.gitkeep
 
