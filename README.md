@@ -80,7 +80,7 @@ We provide tutorial notebooks to help you get started:
 - **Multislice Tutorial** (`tutorial/jsPCA-Multislice-Tutorial.ipynb`)  
   Step-by-step guide to run a multislice example.
 
-### How to Run
+How to Run
 1. Open the notebook in **Jupyter Notebook** or **Jupyter Lab**.
 2. Run the cells in order to follow the workflow.
 
