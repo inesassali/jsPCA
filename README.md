@@ -24,6 +24,9 @@ jsPCA_project/
 ├── scripts/                # Main scripts for mono-slice and multi-slice analysis
 │   ├── jspca_monosslice.py
 │   ├── jspca_multislice.py
+├── tutorial/
+│   ├── jspca-Monoslice-Tutorial.ipynb
+│   ├── jsPCA-Multislice-Tutorial.ipynb
 ├── utils/                  # Utility modules
 │   ├── adjacency_matrix_knn.py
 │   ├── clustering_utils.py
