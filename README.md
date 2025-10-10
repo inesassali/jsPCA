@@ -51,12 +51,31 @@ jsPCA_project/
 - Git installed if you want to clone the repository
 
 
-
 **Clone the project**
 
 ```
 git clone https://github.com/inesassali/jsPCA_project.git
 cd jsPCA_project
+```
+
+**Create the Conda environment**
+
+```
+conda create -n jspca-env python=3.11
+```
+
+Replace `jspca-env` with any environment name.
+
+**Activate the environment**
+
+```
+conda activate jspca-env
+```
+
+**Install dependencies**
+
+```
+pip install -r requirements.txt
 ```
 ## Data Analysis Workflow
 To analyze your own spatial transcriptomics data:
