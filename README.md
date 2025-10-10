@@ -17,7 +17,7 @@ This simple mathematical framework allows jsPCA to efficiently capture biologica
 ## Project Structure
 ```bash
 
-jsPCA_project/
+jsPCA/
 │
 ├── data/                   # Input datasets (.h5ad)
 ├── results/                # Output results (clustering, metrics, plots)
@@ -55,7 +55,7 @@ jsPCA_project/
 **Clone the project**
 
 ```
-git clone https://github.com/inesassali/jsPCA_project.git
+git clone https://github.com/inesassali/jsPCA.git
 cd jsPCA_project
 ```
 
