@@ -50,14 +50,15 @@ jsPCA_project/
 - Conda installed
 - Git installed if you want to clone the repository
 
+---
 
-** Clone the project**
+**Clone the project**
 
-``` 
+```
 git clone https://github.com/inesassali/jsPCA_project.git
 cd jsPCA_project
 ```
-
+```
 
 
 
