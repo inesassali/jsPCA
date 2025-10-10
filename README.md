@@ -122,6 +122,9 @@ How to Run
 - Each dataset should contain **spatial coordinates** (`x/y` or `spatial` in `.obsm`).
 - Each dataset should include **ground truth labels** (`ground_truth`) and/or **cell/tissue annotations** (`annotation`) for evaluation and interpretation.
 
+**Reference dataset**
+
+Our analysis will be based on the [DLPFC 10x Visium dataset](http://sdmbench.drai.cn), specifically on slices 151673 and 151674 (files 9 and 10 in the database).
 
 ## Citation
 If you use this project, please cite the corresponding study:
