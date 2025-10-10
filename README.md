@@ -70,6 +70,21 @@ python scripts/jspca-multislice.py
    * `.h5ad` files with clustering results and best configuration automatically selected.
    * Excel files with **ARI/NMI** and **Time/Memory** metrics.
 
+## Tutorials
+
+We provide tutorial notebooks to help you get started:
+
+- **Monoslice Tutorial** (`tutorial/jspca-Monoslice-Tutorial.ipynb`)  
+  Step-by-step guide to run a monoslice example.
+
+- **Multislice Tutorial** (`tutorial/jsPCA-Multislice-Tutorial.ipynb`)  
+  Step-by-step guide to run a multislice example.
+
+### How to Run
+1. Open the notebook in **Jupyter Notebook** or **Jupyter Lab**.
+2. Run the cells in order to follow the workflow.
+
+
 ## Datasets
 
 - Input datasets must be in `.h5ad` format.
