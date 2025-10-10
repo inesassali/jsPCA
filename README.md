@@ -77,6 +77,14 @@ conda activate jspca-env
 ```
 pip install -r requirements.txt
 ```
+**Create a Jupyter kernel**
+
+```
+conda activate jspca-env
+conda install ipykernel  # if not already installed
+python -m ipykernel install --user --name=jspca-env --display-name "Python (jspca-env)"
+```
+
 ## Data Analysis Workflow
 To analyze your own spatial transcriptomics data:
 
