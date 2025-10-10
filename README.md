@@ -36,6 +36,7 @@ jsPCA_project/
 │   ├── projection_utils.py
 │   ├── spca_utils.py
 ├── .gitignore              # Git ignore file
+├── LICENSE                 
 ├── README.md               # Project overview and instructions
 ├── environment.yml         # Conda environment
 └── requirements.txt        # Python package dependencies
