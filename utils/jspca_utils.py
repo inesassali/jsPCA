@@ -50,7 +50,7 @@ def joint_spca(datasets, k):
 
     # Optimization
     problem = pymanopt.Problem(manifold, cost)
-    optimizer = SteepestDescent(max_iterations=100)
+    optimizer = SteepestDescent(max_iterations=100, verbosity=0)
     result = optimizer.run(problem, initial_point=np.array(U_init_tensor))
 
     return {'optimized_matrix': result.point}
