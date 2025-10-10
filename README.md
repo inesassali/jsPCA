@@ -45,15 +45,21 @@ jsPCA_project/
 
 ## Installation
 
+**Prerequisites**
 
+- Conda installed
+- Git installed if you want to clone the repository
+
+
+** Clone the project**
 
 ```bash
-
-conda env create -f environment.yml
-
-conda activate jspca-env
-
+git clone https://github.com/inesassali/jsPCA_project.git
+cd jsPCA_project
 ```
+
+
+
 
 
 
