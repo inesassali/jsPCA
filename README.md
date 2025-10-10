@@ -50,7 +50,7 @@ jsPCA_project/
 - Conda installed
 - Git installed if you want to clone the repository
 
----
+
 
 **Clone the project**
 
