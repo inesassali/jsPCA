@@ -125,7 +125,7 @@ How to Run
 **Reference dataset**
 
 Our analysis will be based on the [DLPFC 10x Visium dataset](http://sdmbench.drai.cn), specifically on slices 151673 and 151674 (files 9 and 10 in the database).
-For interactive browsing and additional resources, see the LIBD portal: [spatialLIBD](https://research.libd.org/spatialLIBD/).
+For interactive browsing and additional resources, see the [spatialLIBD](https://research.libd.org/spatialLIBD/) portal.
 
 ## Citation
 If you use this project, please cite the corresponding study:
