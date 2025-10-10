@@ -57,7 +57,6 @@ jsPCA_project/
 ```
 git clone https://github.com/inesassali/jsPCA_project.git
 cd jsPCA_project
-
 ```
 ## Data Analysis Workflow
 To analyze your own spatial transcriptomics data:
