@@ -11,3 +11,4 @@ torch
 pymanopt
 python-louvain
 python-igraph
+jupyterlab
