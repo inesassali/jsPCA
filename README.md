@@ -27,7 +27,6 @@ jsPCA/
 ├── tutorial/
 │   ├── jspca-Monoslice-Tutorial.ipynb
 │   ├── jsPCA-Multislice-Tutorial.ipynb
-│   ├── SVGs-Detection-Tutorial.ipynb
 ├── utils/                  # Utility modules
 │   ├── adjacency_matrix_knn.py
 │   ├── clustering_utils.py
