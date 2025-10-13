@@ -1,5 +1,6 @@
 # jsPCA
 
+![Pipeline Diagram](images/Pipeline.png)
 
 
 **Joint Spatial PCA (jsPCA)** is a fast and interpretable method for analyzing spatial transcriptomics data across single or multiple tissue slices or samples. It is based on a spatial covariance, defined as the product of the gene expression covariance with the spatial autocorrelation. The principal components of this spatial covariance yield a biologically meaningful low-dimensional representation, from which:
